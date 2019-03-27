@@ -5,7 +5,9 @@
 #Although there are more logic needs to be written for example, what if I have multiple similar XML tags, 
 #I can handle that as well and in that case a same list of multiple objects will be returned.
 
-## But I hope for interview purpose, it should be enough.
+#More important part is OAuth implementation, but that is depend upon requirement and more detail of user accounts and roles.
+
+# But I hope for interview purpose, it should be enough.
 
 I tried to cover all desired aspects (design, reliability, readability, extensible, quality) and implemented as following: 
 
